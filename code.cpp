@@ -298,7 +298,7 @@ void PlayGame()
 
         FinalResults(Results, Level, Operation, NumberOfQuestion);
 
-        cout << Tabs(3) << "Do You want to play agian? Y/N?\t  ";
+        cout << Tabs(3) << "Do You want to play agian? Y/N?\t";
         cin >> again;
 
     } while(again == 'Y' || again == 'y');
