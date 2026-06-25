@@ -3,7 +3,6 @@
 A console-based Math Game developed in C++. The game generates random arithmetic questions based on the player's selected difficulty level and operation type. At the end of the game, a summary of the player's performance is displayed.
 
 ---
-
 ## ✨ Features
 
 - 🎯 Choose the number of questions (1–100)
